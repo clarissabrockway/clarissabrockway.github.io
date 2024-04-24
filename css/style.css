@@ -1,0 +1,74 @@
+body {
+    background: url("../images/clouds-recolor.png") #9B96B4 fixed;
+    color: #EFA9B9;
+    background-size:cover;
+    -webkit-animation: slidein 10s;
+    animation: slidein 10s;
+
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;              
+}
+
+@-webkit-keyframes slidein {
+from {background-position: top; background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+}
+
+@keyframes slidein {
+from {background-position: top;background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+
+}
+
+h1 {
+    color: #2C1132;
+    font-family: "UnifrakturMaguntia", cursive;
+    font-size: 6rem;
+    font-weight: 400;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+p, li {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.2rem;
+    letter-spacing: .08rem;
+    line-height: 1.8rem;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.card {
+    background: #2C1132bf;
+    margin: 0 auto 4rem;
+    width: 90vw;
+    max-width: 1200px;
+    padding: 50px;
+}
+
+.image-block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-block img{
+    width: 21rem;
+}
