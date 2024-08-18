@@ -1,0 +1,53 @@
+body {
+    background: #153B50;
+    color: #ECEBE4;      
+}
+
+h1 {
+    color: #119DA4;
+    font-family: "Archivo Black", sans-serif;
+    font-size: 6rem;
+    font-weight: 400;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Nunito", sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+p, li {
+    font-family: "Nunito", sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: .08rem;
+    line-height: 1.8rem;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.logo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card {
+    background: #119DA4bf;
+    margin: 0 auto 4rem;
+    width: 68vw;
+    max-width: 1200px;
+    padding: 50px;
+}
+
+.geo-invasives {
+    display: flex;
+}
+
+.geo-invasives img {
+    max-width: 300px;
+}
