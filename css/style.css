@@ -1,3 +1,43 @@
+@keyframes blink {
+    0% {
+        opacity: 10%;
+    }
+    50% {
+        opacity: 100%;
+    }
+    100% {
+        opacity: 10%;
+    }
+}
+@-webkit-keyframes blink {
+    0% {
+        opacity: 10%;
+    }
+    50% {
+        opacity: 100%;
+    }
+    100% {
+        opacity: 10%;
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0%;
+    }
+    100% {
+        opacity: 100%;
+    }
+}
+@-webkit-keyframes fade-in {
+    0% {
+        opacity: 0%;
+    }
+    100% {
+        opacity: 100%;
+    }
+}
+
 body {
     background: #153B50;
     color: #ECEBE4;      
@@ -6,18 +46,29 @@ body {
 h1 {
     color: #119DA4;
     font-family: "Archivo Black", sans-serif;
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 400;
     margin: 0 0 10px;
     text-align: center;
 }
 
 h2 {
-    font-family: "Nunito", sans-serif;
+    font-family: "Archivo Black", sans-serif;
     font-size: 2rem;
     font-weight: 400;
     margin: 0 0 10px;
     text-align: center;
+}
+
+h3 {
+    font-family: "Archivo Black", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 10px 0 0;
+}
+
+a {
+    color: #F283B6;
 }
 
 p, li {
@@ -44,10 +95,71 @@ li {
     padding: 50px;
 }
 
-.geo-invasives {
+.page-links {
     display: flex;
+    justify-content: center;
 }
 
-.geo-invasives img {
+.page-links a {
+    font-family: "Archivo Black", sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 20px 10px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.loading {
+    -moz-animation:blink normal 1.5s infinite ease-in-out;
+    -webkit-animation:blink normal 1.5s infinite ease-in-out;
+    -ms-animation:blink normal 1.5s infinite ease-in-out;
+    animation:blink normal 1.5s infinite ease-in-out;
+}
+
+.geo-invasives, .identified-species {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.species {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 5px 20px;
     max-width: 300px;
+    width: 33%;
+    -moz-animation:fade-in normal 1.5s 1 ease-in-out;
+    -webkit-animation:fade-in normal 1.5s 1 ease-in-out;
+    -ms-animation:fade-in normal 1.5s 1 ease-in-out;
+    animation:fade-in normal 1.5s 1 ease-in-out;
+}
+
+.identified-species .species {
+    margin: 20px 0;
+    max-width: 100%;
+    width: 100%;
+}
+
+.species-img {
+    text-align: center;
+}
+
+.identified-species .species-img {
+    text-align: left;
+}
+
+.species img {
+    height: 300px;
+    object-fit: cover;
+    width: 300px;
+}
+
+.species p {
+    font-size: 1rem;
+    margin: 8px 0;
+}
+
+.species .label {
+    font-weight: bold;
 }

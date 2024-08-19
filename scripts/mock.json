@@ -51,7 +51,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",
@@ -468,7 +486,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "\"shoots\",\n\"root\",\n\"leaves”",
+                    "content": "\"shoots\",\n\"root\",\n\"leaves\"",
                     "link": null
                   },
                   "annotations": {
@@ -479,7 +497,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "\"shoots\",\n\"root\",\n\"leaves”",
+                  "plain_text": "\"shoots\",\n\"root\",\n\"leaves\"",
                   "href": null
                 }
               ]
@@ -715,7 +733,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "\"American skunkcabbage\",\n\"western skunk cabbage\",\n\"yellow skunk-cabbage”",
+                    "content": "\"American skunkcabbage\",\n\"western skunk cabbage\",\n\"yellow skunk-cabbage\"",
                     "link": null
                   },
                   "annotations": {
@@ -726,7 +744,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "\"American skunkcabbage\",\n\"western skunk cabbage\",\n\"yellow skunk-cabbage”",
+                  "plain_text": "\"American skunkcabbage\",\n\"western skunk cabbage\",\n\"yellow skunk-cabbage\"",
                   "href": null
                 }
               ]
@@ -1453,7 +1471,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "[{\"Country\":\"UK\",\"Year\":\"1870\",\"Ref\":\"Gioria  M and Bruce A. O. (2013).  “Biological Flora of the British Isles: Gunnera Tinctoria.” Journal of Ecology 101, no. 1 : 243–64. http://www.jstor.org/stable/23354684.\"}]",
+                    "content": "[{\"Country\":\"UK\",\"Year\":\"1870\",\"Ref\":\"Gioria  M and Bruce A. O. (2013).  “Biological Flora of the British Isles: Gunnera Tinctoria.\" Journal of Ecology 101, no. 1 : 243–64. http://www.jstor.org/stable/23354684.\"}]",
                     "link": null
                   },
                   "annotations": {
@@ -1464,7 +1482,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "[{\"Country\":\"UK\",\"Year\":\"1870\",\"Ref\":\"Gioria  M and Bruce A. O. (2013).  “Biological Flora of the British Isles: Gunnera Tinctoria.” Journal of Ecology 101, no. 1 : 243–64. http://www.jstor.org/stable/23354684.\"}]",
+                  "plain_text": "[{\"Country\":\"UK\",\"Year\":\"1870\",\"Ref\":\"Gioria  M and Bruce A. O. (2013).  “Biological Flora of the British Isles: Gunnera Tinctoria.\" Journal of Ecology 101, no. 1 : 243–64. http://www.jstor.org/stable/23354684.\"}]",
                   "href": null
                 }
               ]
@@ -1649,7 +1667,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "\"Chilean gunnera\",\n\"Chilean rhubarb\",\n\"Giant-rhubarb”",
+                    "content": "\"Chilean gunnera\",\n\"Chilean rhubarb\",\n\"Giant-rhubarb\"",
                     "link": null
                   },
                   "annotations": {
@@ -1660,7 +1678,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "\"Chilean gunnera\",\n\"Chilean rhubarb\",\n\"Giant-rhubarb”",
+                  "plain_text": "\"Chilean gunnera\",\n\"Chilean rhubarb\",\n\"Giant-rhubarb\"",
                   "href": null
                 }
               ]
@@ -1865,7 +1883,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",
@@ -2296,7 +2332,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",
@@ -2727,7 +2781,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",
@@ -3162,7 +3234,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "\"shoots\",\n\"seedpod\",\n\"flowers\",\n\"seeds\",\n\"oil\",\n\"leaves”",
+                    "content": "\"shoots\",\n\"seedpod\",\n\"flowers\",\n\"seeds\",\n\"oil\",\n\"leaves\"",
                     "link": null
                   },
                   "annotations": {
@@ -3173,7 +3245,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "\"shoots\",\n\"seedpod\",\n\"flowers\",\n\"seeds\",\n\"oil\",\n\"leaves”",
+                  "plain_text": "\"shoots\",\n\"seedpod\",\n\"flowers\",\n\"seeds\",\n\"oil\",\n\"leaves\"",
                   "href": null
                 }
               ]
@@ -3391,7 +3463,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "\"common milkweed\",\n\"common Midwest milkweed\",\n\"butterfly flower\",\n\"silkweed\",\n\"silky swallow-wort\",\n\"Virginia silkweed”",
+                    "content": "\"common milkweed\",\n\"common Midwest milkweed\",\n\"butterfly flower\",\n\"silkweed\",\n\"silky swallow-wort\",\n\"Virginia silkweed\"",
                     "link": null
                   },
                   "annotations": {
@@ -3402,7 +3474,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "\"common milkweed\",\n\"common Midwest milkweed\",\n\"butterfly flower\",\n\"silkweed\",\n\"silky swallow-wort\",\n\"Virginia silkweed”",
+                  "plain_text": "\"common milkweed\",\n\"common Midwest milkweed\",\n\"butterfly flower\",\n\"silkweed\",\n\"silky swallow-wort\",\n\"Virginia silkweed\"",
                   "href": null
                 }
               ]
@@ -3607,7 +3679,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",
@@ -4251,7 +4341,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "[{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Erosion control / dune stabilization\"},{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - STOWAWAY: Vehicles (car, train, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5\"}]",
+                    "content": "[{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Erosion control / dune stabilization\"},{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Landscape/flora/fauna “improvement\" in the wild\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - STOWAWAY: Vehicles (car, train, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5\"}]",
                     "link": null
                   },
                   "annotations": {
@@ -4262,7 +4352,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "[{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Erosion control / dune stabilization\"},{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - STOWAWAY: Vehicles (car, train, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5\"}]",
+                  "plain_text": "[{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Erosion control / dune stabilization\"},{\"Path_type\":\"P\",\"Uncertainty\":\"LOW\",\"Name\":\"RELEASE IN NATURE: Landscape/flora/fauna “improvement\" in the wild\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"TRANSPORT - STOWAWAY: Vehicles (car, train, …)\"},{\"Path_type\":\"S\",\"Uncertainty\":\"\",\"Name\":\"UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5\"}]",
                   "href": null
                 }
               ]
@@ -4289,7 +4379,7 @@
                 {
                   "type": "text",
                   "text": {
-                    "content": "\"tree of heaven\",\n\"tree-of-heaven\",\n\"stinktree\",\n\"Ghetto Palm\",\n\"Chinese Sumac\",\n\"Copal Tree\",\n\"Stinking Cedar\",\n\"Varnish Tree”",
+                    "content": "\"tree of heaven\",\n\"tree-of-heaven\",\n\"stinktree\",\n\"Chinese Sumac\",\n\"Copal Tree\",\n\"Stinking Cedar\",\n\"Varnish Tree\"",
                     "link": null
                   },
                   "annotations": {
@@ -4300,7 +4390,7 @@
                     "code": false,
                     "color": "default"
                   },
-                  "plain_text": "\"tree of heaven\",\n\"tree-of-heaven\",\n\"stinktree\",\n\"Ghetto Palm\",\n\"Chinese Sumac\",\n\"Copal Tree\",\n\"Stinking Cedar\",\n\"Varnish Tree”",
+                  "plain_text": "\"tree of heaven\",\n\"tree-of-heaven\",\n\"stinktree\",\n\"Chinese Sumac\",\n\"Copal Tree\",\n\"Stinking Cedar\",\n\"Varnish Tree\"",
                   "href": null
                 }
               ]
@@ -4505,7 +4595,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",
@@ -4936,7 +5044,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",
@@ -5385,7 +5511,25 @@
             "EdibleParts": {
               "id": "CDRf",
               "type": "rich_text",
-              "rich_text": []
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "meat",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "meat",
+                  "href": null
+                }
+              ]
             },
             "IsPartNative": {
               "id": "EwaU",

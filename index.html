@@ -14,18 +14,28 @@
       <img src="images/eat-invasive.png" />
     </div>
     <h1>Eat Invasive</h1>
-    <div class="card intro-card">
+    <div class="page-links">
+      <a href="#geo-invasives">Edible Invasives Nearby</a>
+      <a href="#identify">Identify a Plant</a>
+    </div>
+    <div id="geo-invasives" class="card intro-card">
       <h2>Edible Invasives Near You</h2>
       <p>
         To see nearby invasive species, please allow the browser to access your location. This data is neither shared nor stored.
       </p>
       <div id="js-geo-invasives" class="geo-invasives"></div>
     </div>
-    <div class="card">
+    <div id="identify" class="card">
       <h2>Identify Species</h2>
       <p>
-        Not sure what to wear? Here are some ideas.
+        Find an interesting plant and want to know if it's invasive and edible? Upload a picture below and we'll indentify it! 
       </p>
+      <form id="js-image-form" action="">
+        <input type="file" id="js-geo-image" name="geo-image">
+        <input type="hidden" id="js-encoded-image" name="b64-image">
+        <input type="submit">
+      </form>
+      <div id="js-identified-species" class="identified-species"></div>
     </div>
     <script src="scripts/ei.js"></script>
   </body>
